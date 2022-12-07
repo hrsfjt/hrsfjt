@@ -20,6 +20,17 @@
 
 Hi, I'm Hiroshi Fujita.
 
+### my github stats:
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuufujita&show_icons=true&theme=transparent)
+
+### my github trophy:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shuufujita&theme=flat)](https://github.com/shuufujita/github-profile-trophy)
+
+
+### languages and tools:
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,10 +40,8 @@ Hi, I'm Hiroshi Fujita.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuufujita&show_icons=true&theme=transparent)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shuufujita&theme=flat)](https://github.com/shuufujita/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuufujita&layout=compact)](https://github.com/shuufujita/github-readme-stats)
 
